@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla el
 
 
 
-[![Abod1960](https://avatars.githubusercontent.com/u/79435005?v=4)](https://github.com/Abod1960) |
+<a href="https://github.com/Abod1960" alt=""><img alt="Abod1960" src="https://avatars.githubusercontent.com/u/79435005?v=4"></a> |
 --- |
 [Abod1960](https://github.com/Abod1960) |
 
