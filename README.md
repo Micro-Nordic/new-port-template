@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla el
 
 ## 🎴 Gallery
 
-```Delet this section if the preview is enogh```
+```Delete this section if the preview was enough```
   
 ## 👥 Author
 
