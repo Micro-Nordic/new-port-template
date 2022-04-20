@@ -2,8 +2,10 @@
     <img src="https://i.imgur.com/xDQfTqK.png" width = 150rem/>
 </p>
 <br>
-<h2 align="center"> <b>Micro Nordic</b> </h2>
-<p align="center">Nord-Circular-Calendar-Clock-Display 🏔</p>
+<h2 align="center"> <b>Micro Nordic Port</b> </h2>
+<p align="center">"The repo name" 🏔
+</p>
+
 <br>
 <div align="center">
   
@@ -11,14 +13,14 @@
 
 </div>
 
-## ⁉ Description
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="5%" alt="Abod1960" src="https://i.imgur.com/9dexckH.png"> &nbsp;  Description</h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla elit, in mollis mi sollicitudin sed. Aliquam auctor mauris lobortis tempor feugiat. Curabitur nec tempus lorem. Aenean condimentum et felis eget ultricies. Phasellus vulputate elit nibh, eu rhoncus augue rhoncus sit amet.
 
-## 🎴 Gallery
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="5%" alt="Abod1960" src="https://i.imgur.com/Ql449i5.png"> &nbsp;  Gallery</h2>
 
 ```Delete this section if the preview was enough```
   
-## 👥 Author
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="5%" alt="Abod1960" src="https://i.imgur.com/89PM7QC.png"> &nbsp;  Author</h2>
 
 
 
@@ -30,11 +32,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla el
 
 [+ some awesome contributors](https://github.com/Micro-Nordic/Nord-Circular-Calendar-Clock-Display/graphs/contributors)
   
-## 🌟 Show your support
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="5%" alt="Abod1960" src="https://i.imgur.com/zaTDMta.png"> &nbsp;  Show your support</h2>
 
 Give a ⭐️ if you like this project!
   
-## 📝 Note
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="5%" alt="Abod1960" src="https://i.imgur.com/oUWxDRu.png"> &nbsp;  License</h2>
 
-colors are adjustable<br>
-you can edit with your own preferences
+Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
+This project is licensed under the [MIT](https://github.com/Micro-Nordic/Nord-Circular-Calendar-Clock-Display/blob/main/LICENSE) license.
