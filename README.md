@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla el
   
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/zaTDMta.png"> Show your support</h2>
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this port!
   
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/oUWxDRu.png"> License</h2>
 
