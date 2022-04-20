@@ -25,7 +25,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla el
 
 <a href="https://github.com/Abod1960" alt=""><img alt="Abod1960" src="https://avatars.githubusercontent.com/u/79435005?v=4"></a> |
 --- |
-[Abod1960](https://github.com/Abod1960) |
+<p align="center" >
+<a alt="Abod1960" href="https://github.com/Abod1960">Abod1960</a>
+</p> |
 
 
 [+ some awesome contributors](https://github.com/Micro-Nordic/Nord-Circular-Calendar-Clock-Display/graphs/contributors)
